@@ -1,5 +1,8 @@
 # RICE COMP 665 Data Visualization  
-
+  
+These are projects I worked on in Dr. Joe Warren's COMP 665 class at Rice University. The code for each of the projects are in my private repo.   
+  
+  
 **Project 3: Stock market data with matplotlib**  
 <p><img src="/images/project3.png" width="450"></p>  
   
